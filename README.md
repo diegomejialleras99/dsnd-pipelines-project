@@ -34,16 +34,18 @@ Step-by-step explanation of how to get a development environment running.
    It's recommended to use a virtual environment to avoid conflicts:
    
    python -m venv venv
+   
    source venv/bin/activate      # On macOS/Linux
+   
    venv\Scripts\activate         # On Windows
 
-4. **Install dependencies**
+5. **Install dependencies**
    
    Use the requirements.txt file to install all necessary libraries:
    
    pip install -r requirements.txt
 
-5. **Execute the notebook**
+6. **Execute the notebook**
    
      Run each cell sequentially to:
 
