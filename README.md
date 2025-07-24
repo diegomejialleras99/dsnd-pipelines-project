@@ -67,15 +67,18 @@ Step-by-step explanation of how to get a development environment running.
 
 ## Testing
 
-Explain the steps needed to run any automated tests
+To evaluate model performance, run all the cells in starter.ipynb. The final section includes:
 
-### Break Down Tests
+Accuracy
 
-Explain what each test does and why
+F1-score
 
-```
-Examples here
-```
+Confusion matrix
+
+ROC-AUC
+
+These help verify that the classifier performs well on the test set.
+
 
 ## Project Instructions
 
