@@ -26,6 +26,7 @@ Step-by-step explanation of how to get a development environment running.
    Download the project files to your local machine using Git:
    
    git clone https://github.com/yourusername/employee-events-classifier.git
+   
    cd employee-events-classifier
    
 3. **(Optional) Create a virtual environment**
