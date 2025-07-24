@@ -6,9 +6,12 @@ This project contains a Jupyter notebook (`starter.ipynb`) that implements a dat
 
 ## Getting Started
 
+```
 $ git clone https://github.com/diegomejialleras99/dsnd-pipelines-project.git
 
 $ cd dsnd-pipelines-project
+
+```
 
 ### Dependencies
 
@@ -25,27 +28,33 @@ Step-by-step explanation of how to get a development environment running.
    
    Download the project files to your local machine using Git:
    
+   ```
    $ git clone https://github.com/yourusername/employee-events-classifier.git
    
    $ cd employee-events-classifier
+   ```
    
 3. **(Optional) Create a virtual environment**
    
    It's recommended to use a virtual environment to avoid conflicts:
    
+   ```
    $ python -m venv venv
    
    $ source venv/bin/activate      # On macOS/Linux
    
    $ venv\Scripts\activate         # On Windows
-
+   ```
+   
 5. **Install dependencies**
    
    Use the requirements.txt file to install all necessary libraries:
    
+   ```
    $ pip install -r requirements.txt
-
-6. **Execute the notebook**
+   ```
+   
+7. **Execute the notebook**
    
      Run each cell sequentially to:
 
