@@ -79,19 +79,19 @@ Examples here
 
 ## Project Instructions
 
-1. The project is implemented in a single notebook starter.ipynb and includes the following student deliverables:
+The project is implemented in a single notebook starter.ipynb and includes the following student deliverables:
 
-2. Load and explore the dataset.
+1. Load and explore the dataset.
 
-3. Perform exploratory data analysis (EDA).
+2. Perform exploratory data analysis (EDA).
 
-4. Preprocess data (e.g., encode categorical variables, normalize).
+3. Preprocess data (e.g., encode categorical variables, normalize).
 
-5. Train a classifier to predict the event label.
+4. Train a classifier to predict the event label.
 
-6. Evaluate the model using appropriate metrics.
+5. Evaluate the model using appropriate metrics.
 
-7. Interpret the model results, including feature importance.
+6. Interpret the model results, including feature importance.
 
 ## Built With
 
