@@ -47,7 +47,9 @@ Step-by-step explanation of how to get a development environment running.
   Run each cell sequentially to:
 
   Load and explore the dataset
+  
   Train the model
+  
   Evaluate results
 
 
