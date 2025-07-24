@@ -45,13 +45,13 @@ Step-by-step explanation of how to get a development environment running.
 
 5. **Execute the notebook**
    
-  Run each cell sequentially to:
+     Run each cell sequentially to:
 
-  Load and explore the dataset
+     Load and explore the dataset
   
-  Train the model
+     Train the model
   
-  Evaluate results
+     Evaluate results
 
 
 ## Testing
