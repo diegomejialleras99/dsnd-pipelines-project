@@ -29,9 +29,9 @@ Step-by-step explanation of how to get a development environment running.
    Download the project files to your local machine using Git:
    
    ```
-   $ git clone https://github.com/yourusername/employee-events-classifier.git
+   $ git clone https://github.com/diegomejialleras99/dsnd-pipelines-project.git
    
-   $ cd employee-events-classifier
+   $ cd dsnd-pipelines-project
    ```
    
 3. **(Optional) Create a virtual environment**
