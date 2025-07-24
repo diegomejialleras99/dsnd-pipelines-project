@@ -84,11 +84,16 @@ Examples here
 
 ## Built With
 
-Python.
+Python
+
 Jupyter Notebook
+
 pandas
+
 seaborn
+
 matplotlib
+
 scikit-learn
 
 
