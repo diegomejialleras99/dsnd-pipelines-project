@@ -55,7 +55,11 @@ Step-by-step explanation of how to get a development environment running.
    ```
    
 7. **Execute the notebook**
+
+   ```
+   jupyter notebook starter.ipynb
    
+   ```
      Run each cell sequentially to:
 
      Load and explore the dataset
