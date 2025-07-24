@@ -4,3 +4,4 @@ spacy
 notebook
 nltk
 imblearn
+seaborn
