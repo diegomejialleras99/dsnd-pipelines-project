@@ -73,13 +73,13 @@ Step-by-step explanation of how to get a development environment running.
 
 To evaluate model performance, run all the cells in starter.ipynb. The final section includes:
 
-Accuracy
+*Accuracy
 
-F1-score
+*F1-score
 
-Confusion matrix
+*Confusion matrix
 
-ROC-AUC
+*ROC-AUC
 
 These help verify that the classifier performs well on the test set.
 
