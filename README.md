@@ -1,4 +1,4 @@
-# README Template
+# README
 
 # Fashion Trend Prediction
 
