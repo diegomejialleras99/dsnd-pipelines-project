@@ -69,7 +69,7 @@ Step-by-step explanation of how to get a development environment running.
      Evaluate results
 
 
-## Testing
+### Testing
 
 To evaluate model performance, run all the cells in starter.ipynb. The final section includes:
 
@@ -84,7 +84,7 @@ ROC-AUC
 These help verify that the classifier performs well on the test set.
 
 
-## Project Instructions
+### Project Instructions
 
 The project is implemented in a single notebook starter.ipynb and includes the following student deliverables:
 
@@ -100,7 +100,7 @@ The project is implemented in a single notebook starter.ipynb and includes the f
 
 6. Interpret the model results, including feature importance.
 
-## Built With
+### Built With
 
 Python
 
@@ -115,6 +115,6 @@ matplotlib
 scikit-learn
 
 
-## License
+### License
 
 [License](LICENSE.txt)
