@@ -7,6 +7,7 @@ This project contains a Jupyter notebook (`starter.ipynb`) that implements a dat
 ## Getting Started
 
 git clone https://github.com/diegomejialleras99/dsnd-pipelines-project.git
+
 cd dsnd-pipelines-project
 
 ### Dependencies
