@@ -4,7 +4,7 @@
 
 This project contains a Jupyter notebook (`starter.ipynb`) that implements a data science pipeline to predict whether a customer would recommend a product or not. This model will analyze the text of a review, the customer's age, the product category, and other relevant information to predict whether the customer would recommend the product or not. 
 
-## Getting Started
+### Getting Started
 
 ```
 git clone https://github.com/diegomejialleras99/dsnd-pipelines-project.git
